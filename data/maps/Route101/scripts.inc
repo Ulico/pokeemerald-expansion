@@ -288,6 +288,7 @@ Route101_Text_TakeTiredPokemonToPokeCenter:
 	.string "TOWN right close by.$"
 
 Route101_Text_WildPokemonInTallGrass:
+	.string "bruhhhh...\n"
 	.string "Wild POKéMON will jump out at you in\n"
 	.string "tall grass.\p"
 	.string "If you want to catch POKéMON, you have\n"

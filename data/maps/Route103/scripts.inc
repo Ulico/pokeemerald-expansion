@@ -339,7 +339,7 @@ Route103_Text_BrendanTimeToHeadBack:
 	.string "We should head back to the LAB.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "My POKéMON is staggeringly tired…\n"
+	.string "Dude what the hell...\n"
 	.string "I should have brought a POTION…$"
 
 Route103_Text_ShortcutToOldale:
